@@ -1,5 +1,5 @@
 
-CLEAN_TARGETS = quine-c quine-c.out quine-hq9+.out
+CLEAN_TARGETS = quine-c quine-c.out quine-hq9+.out quine-go.out
 
 .PHONEY: all clean c hq9+ go
 
